@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct RepoTest {
-    func hello() {
+public struct RepoTest {
+    public func hello() {
         print("Hello RepoTest!")
     }
 }
